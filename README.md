@@ -11,4 +11,4 @@ In unseren letzten Projekt haben wir mit der siebten Lernaktivität abgeschlosse
 
 ### Lernaktivität acht:
 
-
+Wir haben unser Spiel zunächst so ergänzt, dass die Giraffen und Löwen verschwinden, wenn Luigi von einem Löwen gefressen worden ist.
