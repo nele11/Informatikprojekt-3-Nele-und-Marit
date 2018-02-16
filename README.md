@@ -23,7 +23,10 @@ Dann fügten wir im "forever"-Bereich "if-test-then"-Blöcke hinzugefügt, und D
 
 ## Zweite und dritte Stunde<a name="2"></a>
 
+Zunächst haben wir den Stundenblog der letzten Stunde ergänzt.
+
 Dann haben wir begonnen, die erste vorgegebene Aufgabe der achten Lernaktivität umzusetzen. Mit dem "Edit Terrain" Tool haben wir Wände im Spaceland erstellt, indem wir die Höhe einzelner Partien des Spacelands erhöht haben. Damit diese Wände auffälliger sind haben wir sie mit dem "drawing" Tool weiß angemalt.
+
 ![Screenshot01](Bilder/Screenshot.sltng.31.png "sltng")
 
 ![Screenshot01](Bilder/Screenshot.sltng.30.png "sltng")
