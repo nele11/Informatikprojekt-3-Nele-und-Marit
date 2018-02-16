@@ -3,6 +3,9 @@
 
 [15/02/18, 1. Stunde](#1)
 
+[16/02/18, 2. und 3. Stunde](#2)
+
+
 ## Erste Stunde<a name="1"></a>
 
 Wir haben  unser zweites Projekt abgegeben. Als drittes Projekt werden wir nun mit der Starlogo TNG Lernaktivität dort weitermachen, wo wir in der letzten Lernaktivität aufgehört haben. 
@@ -16,3 +19,11 @@ Hierzu haben wir die globale Variable "Luigi Tot" eingeführt. Im "setup"-Bereic
 Dann fügten wir im "forever"-Bereich "if-test-then"-Blöcke hinzugefügt, und Die Paintbälle, Löwen und Giraffen sterben lassen, wenn "Luigi Tot" als "true" wiedergegeben wird.
 
 ![Screenshot01](Bilder/Screenshot.sltng.29.png "sltng")
+
+
+## Zweite und dritte Stunde<a name="2"></a>
+
+Dann haben wir begonnen, die erste vorgegebene Aufgabe der achten Lernaktivität umzusetzen. Mit dem "Edit Terrain" Tool haben wir Wände im Spaceland erstellt, indem wir die Höhe einzelner Partien des Spacelands erhöht haben. Damit diese Wände auffälliger sind haben wir sie mit dem "drawing" Tool weiß angemalt.
+![Screenshot01](Bilder/Screenshot.sltng.31.png "sltng")
+
+![Screenshot01](Bilder/Screenshot.sltng.30.png "sltng")
