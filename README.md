@@ -25,7 +25,7 @@ Dann fügten wir im "forever"-Bereich "if-test-then"-Blöcke hinzugefügt, und D
 
 Zunächst haben wir den Stundenblog der letzten Stunde ergänzt.
 
-Dann haben wir begonnen, die erste vorgegebene Aufgabe der achten Lernaktivität umzusetzen. Mit dem "Edit Terrain" Tool haben wir Wände im Spaceland erstellt, indem wir die Höhe einzelner Partien des Spacelands erhöht haben. Damit diese Wände auffälliger sind haben wir sie mit dem "drawing" Tool weiß angemalt.
+Dann haben wir begonnen, die erste vorgegebene Aufgabe der achten Lernaktivität umzusetzen. Mit dem "Edit Terrain" Tool haben wir Wände im Spaceland erstellt, indem wir die Höhe einzelner Partien des Spacelands erhöht haben. Damit diese Wände auffälliger sind haben wir sie mit dem "drawing" Tool weiß angemalt. Wir fühlten uns in unsere Kindergartenzeit zurückversetzt, als wir merkten, wie nervenaufreibend es ist, ständig "überzumalen" und diese Fehler dann wieder verbessern zu müssen.
 
 ![Screenshot01](Bilder/Screenshot.sltng.31.png "sltng")
 
