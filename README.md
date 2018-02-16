@@ -12,3 +12,7 @@ In unseren letzten Projekt haben wir mit der siebten Lernaktivität abgeschlosse
 ### Lernaktivität acht:
 
 Wir haben unser Spiel zunächst so ergänzt, dass die Giraffen und Löwen verschwinden, wenn Luigi von einem Löwen gefressen worden ist.
+Hierzu haben wir die globale Variable "Luigi Tot" eingeführt. Im "setup"-Bereich setzten wir diese zuerst auf "false". Im "collisions"-Bereich programmierten wir nun, dass die Variable als "true" wiedergegeben wird, wenn Luigi mit einem Löwen zusammengestoßen ist.
+Dann fügten wir im "forever"-Bereich "if-test-then"-Blöcke hinzugefügt, und Die Paintbälle, Löwen und Giraffen sterben lassen, wenn "Luigi Tot" als "true" wiedergegeben wird.
+
+![Screenshot01](Bilder/Screenshot29.png "Shot!")
