@@ -40,6 +40,12 @@ Wir begannen die Stunde damit, Luigi, die Paintbälle und die Tiere so zu progra
 
 ![Screenshot01](Bilder/Screenshot.sltng.32.png "sltng")
 
+Wir beschlossen mit dieser Änderung die Lernaktivität acht abzuschließen und begannen mit Lernaktivität neun.
+
+### Lernaktivität neun
+
+
+
 
 
 
