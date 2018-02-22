@@ -44,6 +44,8 @@ Wir beschlossen mit dieser Änderung die Lernaktivität acht abzuschließen und 
 
 ### Lernaktivität neun
 
+Die Aufgabe dieser Lernaktivität besteht daraus, eine Epidemie zu programmieren. Hierzu erstellten wir zunächst die Rasse der Bären. Wir programmierten einen slider, mit dem man die Anzahl der Bären einstellen kann, und dass diese blau gefärbt sind. Außerdem programmierten wir die Prozedur "bewegen", nach der die Bären sich willkürlich bewegen.
+
 
 
 
