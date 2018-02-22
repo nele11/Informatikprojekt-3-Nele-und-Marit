@@ -36,7 +36,9 @@ Dann haben wir begonnen, die erste vorgegebene Aufgabe der achten Lernaktivität
 
 ## Vierte Stunde<a name="3"></a>
 
+Wir begannen die Stunde damit, Luigi, die Paintbälle und die Tiere so zu programmieren, dass sie nicht mehr durch die Wände durchlaufen. Hierzu haben wir in den jeweiligen Methoden "if-test-then"-Blöcke benutzt: Mit dem Block "Wall ahead?" ließen wir testen, ob der jeweilige actor gegen eine Wand läuft. Für den Fall, dass er dies tut, haben wir die Paintbälle verschwinden lassen, Luigi um 90°, und die Giraffen und Löwen um 180° drehen lassen.  
 
+![Screenshot01](Bilder/Screenshot.sltng.32.png "sltng")
 
 
 
