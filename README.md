@@ -5,8 +5,9 @@
 
 [16/02/18, 2. und 3. Stunde](#2)
 
-[22/02/18, 3. Stunde](#3)
+[22/02/18, 4. Stunde](#3)
 
+[23/02/18, 5. und 6. Stunde](#4)
 
 ## Erste Stunde<a name="1"></a>
 
@@ -46,8 +47,10 @@ Wir beschlossen mit dieser Änderung die Lernaktivität acht abzuschließen und 
 
 Die Aufgabe dieser Lernaktivität besteht daraus, eine Epidemie zu programmieren. Hierzu erstellten wir zunächst die Rasse der Bären. Wir programmierten einen slider, mit dem man die Anzahl der Bären einstellen kann, und dass diese blau gefärbt sind. Außerdem programmierten wir die Prozedur "bewegen", nach der die Bären sich willkürlich bewegen.
 
+![Screenshot01](Bilder/Screenshot.sltng.33.png "sltng")
+![Screenshot01](Bilder/Screenshot.sltng.34.png "sltng")
 
-
+## Fünfte und sechste Stunde<a name="4"></a>
 
 
 
