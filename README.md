@@ -64,7 +64,7 @@ Unser Slider für die Ansteckungswahrscheinlichkeit funktioniert so, dass die Wa
 Um zu überprüfen, ob unser Slider funtioniert, haben wir die Bären nach einer Kollision mit Hilfe zweier "say"-Blöcke entweder "Ich bin krank", oder Ich bin gesund geblieben" sagen lassen:
 
 ![Screenshot01](Bilder/Screenshot.sltng.36.png "sltng")
-
+(Auf dem Screenshot liegt die Wahrscheinlichkeit für eine Ansteckung bei ungefähr 50%.)
 
 
 
