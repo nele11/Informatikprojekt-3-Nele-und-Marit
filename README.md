@@ -66,7 +66,8 @@ Um zu überprüfen, ob unser Slider funtioniert, haben wir die Bären nach einer
 ![Screenshot01](Bilder/Screenshot.sltng.36.png "sltng")
 (Auf dem Screenshot liegt die Wahrscheinlichkeit für eine Ansteckung bei ungefähr 50%.)
 
-
+Auf Herrn Buhls Hinweis hin werden wir in der nächsten Stunde unser Programm dahingehend verändern, dass es nur noch einen Bärenrasse gibt, und das Kranksein zu einer Eigenschaft dieser wir, die ein Bäre entweder haben, oder nicht haben kann.
+Außerdem werden wir danach versuchen, einen räumlichen Krankheitsherd einzurichten. Die gesunden Bären sollen sich dann anstecken, wenn sie den Bereich betreten.
 
 
 
