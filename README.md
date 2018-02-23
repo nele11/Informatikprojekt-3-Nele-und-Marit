@@ -59,6 +59,12 @@ Für die Ansteckung benutzten wir einen Kollisionsblock. Mit einem Random-Block 
 
 ![Screenshot01](Bilder/Screenshot.sltng.35.png "sltng")
 
+Unser Slider für die Ansteckungswahrscheinlichkeit funktioniert so, dass die Wahrscheinlichkeit für eine Ansteckung immer kleiner wird, je weiter man ihn nach rechts schiebt: Ist er ganz links, so liegt die Wahrscheinlichkeit bei 100%. Schiebt man ihn ganz nach rechts so ist sie, abhängig von den eingestellten Randwerten, am kleinsten. In unserem Fall liegt sie dann bei einem Zehntel.
+
+Um zu überprüfen, ob unser Slider funtioniert, haben wir die Bären nach einer Kollision mit Hilfe zweier "say"-Blöcke entweder "Ich bin krank", oder Ich bin gesund geblieben" sagen lassen:
+
+![Screenshot01](Bilder/Screenshot.sltng.36.png "sltng")
+
 
 
 
