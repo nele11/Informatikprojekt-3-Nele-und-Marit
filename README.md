@@ -45,12 +45,25 @@ Wir beschlossen mit dieser Änderung die Lernaktivität acht abzuschließen und 
 
 ### Lernaktivität neun
 
-Die Aufgabe dieser Lernaktivität besteht daraus, eine Epidemie zu programmieren. Hierzu erstellten wir zunächst die Rasse der Bären. Wir programmierten einen slider, mit dem man die Anzahl der Bären einstellen kann, und dass diese blau gefärbt sind. Außerdem programmierten wir die Prozedur "bewegen", nach der die Bären sich willkürlich bewegen.
+Die Aufgabe dieser Lernaktivität besteht daraus, eine Epidemie zu programmieren. Hierzu erstellten wir zunächst die Rasse der gesunden Bären. Wir programmierten einen slider, mit dem man die Anzahl der Bären einstellen kann, und dass diese blau gefärbt sind. Außerdem programmierten wir die Prozedur "bewegen", nach der die gesunden Bären sich willkürlich bewegen.
 
 ![Screenshot01](Bilder/Screenshot.sltng.33.png "sltng")
 ![Screenshot01](Bilder/Screenshot.sltng.34.png "sltng")
 
+
 ## Fünfte und sechste Stunde<a name="4"></a>
+
+Wir begannen die Stunde damit, eine zweite Bärenart zu erstellen. Diese nannten wir "Bär krank". Auch für die kranken Bären erstellten wir einen Slider, mit dessen sich die Anzahl der erstellten Bären regulieren lässt. Die kranken Bären färbten wir rot, und ließen sie sich auf die gleiche Art und Weise zufällig bewegen, wie die gesunden Bären.
+
+Für die Ansteckung benutzten wir einen Kollisionsblock. Mit einem Random-Block und einem neuen Slider programmierten wir eine einstellbare Wahrscheinlichkeit für eine Ansteckung. Stckt der gesunde Bär sich an, so wird er zu einem kranken Bären. Hierzu benutzten wir einen "setBreed"- und einen "setColor"-Block:
+
+![Screenshot01](Bilder/Screenshot.sltng.35.png "sltng")
+
+
+
+
+
+
 
 
 
