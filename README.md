@@ -74,7 +74,7 @@ Außerdem werden wir danach versuchen, einen räumlichen Krankheitsherd einzuric
 
 ## Siebte Stunde<a name="5"></a>
 
-
+Wir haben zunächst eine der Bärenrassen gelöscht und die Eigenschaft "ist krank" für Bären erstellt. Dann veränderten wir den Setup-Bereich so, dass von der Gesamtzahl der Bären ein gewisser Prozentsatz von Anfang an krank ist.
 
 
 
