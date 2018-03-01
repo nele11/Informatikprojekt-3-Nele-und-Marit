@@ -9,6 +9,9 @@
 
 [23/02/18, 5. und 6. Stunde](#4)
 
+[23/02/18, 7. Stunde](#5)
+
+
 ## Erste Stunde<a name="1"></a>
 
 Wir haben  unser zweites Projekt abgegeben. Als drittes Projekt werden wir nun mit der Starlogo TNG Lernaktivität dort weitermachen, wo wir in der letzten Lernaktivität aufgehört haben. 
@@ -68,6 +71,8 @@ Um zu überprüfen, ob unser Slider funtioniert, haben wir die Bären nach einer
 
 Auf Herrn Buhls Hinweis hin werden wir in der nächsten Stunde unser Programm dahingehend verändern, dass es nur noch einen Bärenrasse gibt, und das Kranksein zu einer Eigenschaft dieser wir, die ein Bäre entweder haben, oder nicht haben kann.
 Außerdem werden wir danach versuchen, einen räumlichen Krankheitsherd einzurichten. Die gesunden Bären sollen sich dann anstecken, wenn sie den Bereich betreten.
+
+## Siebte Stunde<a name="5"></a>
 
 
 
