@@ -84,3 +84,12 @@ Anschließend veränderten wir auch unseren Collisions-Bereich so, dass es nicht
 
 Zuerst vervollständigten wir den Stundenblog der gestrigen Stunde. 
 
+Dann behoben wir einen Fehler, der dafür gesorgt hatte, dass bereits am Anfang alle Bären krank waren: Wir hatten vergessen, die Eigenschaft "ist krank" im setup-Bereich als falsch zu initialisieren.
+
+![Screenshot01](Bilder/Screenshot.sltng.39.png "sltng")
+
+Dies holten wir nun nach. Außerdem initialisierten wir auch die Eigenschaft "ist immun" als falsch und fügten "ist nicht immun" als Testbedingung für eine Ansteckung im Collisions-Bereich hinzu.
+
+![Screenshot01](Bilder/Screenshot.sltng.38.png "sltng")
+
+
