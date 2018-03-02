@@ -92,8 +92,10 @@ Dies holten wir nun nach. Außerdem initialisierten wir auch die Eigenschaft "is
 
 ![Screenshot01](Bilder/Screenshot.sltng.39.png "sltng")
 
+Nun funktioniert die Epidemie und man kann einstellen, wie viele Bären es insgesamt gibt, und wie viele von ihnen von Anfang an krank sind. Auch die Ansteckungswahrscheinlichkeit lässt sich mit einem Slider einstellen.
 
 ![Screenshot01](Bilder/Screenshot.sltng.38.png "sltng")
 
+Nun programmierten wir die Immunität. Hierzu erstellten wir einen weiteren Slider, der die Genesungswahrscheinlichkeit einstellt. Wir ergänzten unseren "collision"-Block, indem wir den "if-test-then"-Block durch einen "if-test-then-else"-Block austauschten. unter "else" fügten wir dann einen weiteren "if-test-then"-Block hinzu. Dieser testet die Genesungswahrscheinlichkeit, und setzt für einen einstellbaren Prozentsatz der kollidierenden bereits kranken Bären die Eigenschaft "ist krank" auf falsch und die Eigenschaft "ist immun" auf wahr. Nun ist es möglich, dass kranke Bären, wenn sie miteinander kollidieren wieder gesund werden und dann immun sind. Diese immunen Bären sind dann grün.
 
 ![Screenshot01](Bilder/Screenshot.sltng.41.png "sltng")
