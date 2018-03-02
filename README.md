@@ -11,6 +11,8 @@
 
 [01/03/18, 7. Stunde](#5)
 
+[02/03/18, 8. und 9. Stunde](#6)
+
 
 ## Erste Stunde<a name="1"></a>
 
@@ -75,6 +77,7 @@ Außerdem werden wir danach versuchen, einen räumlichen Krankheitsherd einzuric
 Wir haben zunächst eine der Bärenrassen gelöscht und die Eigenschaft "ist krank" für Bären erstellt. Dann veränderten wir den Setup-Bereich so, dass von der Gesamtzahl der Bären ein gewisser Prozentsatz von Anfang an krank ist. Dieser Prozentsatz lässt sich mit einem Slider einstellen.
 
 
+## Achte und neunte Stunde<a name="6"></a>
 
 
 
