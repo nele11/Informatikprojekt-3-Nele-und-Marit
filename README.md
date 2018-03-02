@@ -78,7 +78,9 @@ Wir haben zunächst eine der Bärenrassen gelöscht und die Eigenschaft "ist kra
 
 ![Screenshot01](Bilder/Screenshot.sltng.37.png "sltng")
 
+Anschließend veränderten wir auch unseren Collisions-Bereich so, dass es nicht ,mehr die Kollision zwischen den zwei verschieden Bärenarten gibt, sondern nur eine zwischen zwei Bären der einzigen vorhandenen Rasse. Wir benutzten einen "if-test-then"-Block, der testet, ob einer der Bären krank ist. Wenn dies der Fall ist, wird der gesunde Bär mit einer einstellbaren Wahrscheinlichkeit ebenfalls krank.
+
 ## Achte und neunte Stunde<a name="6"></a>
 
-
+Zuerst vervollständigten wir den Stundenblog der gestrigen Stunde. 
 
