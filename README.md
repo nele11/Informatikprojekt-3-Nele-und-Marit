@@ -93,3 +93,7 @@ Dies holten wir nun nach. Außerdem initialisierten wir auch die Eigenschaft "is
 ![Screenshot01](Bilder/Screenshot.sltng.39.png "sltng")
 
 
+![Screenshot01](Bilder/Screenshot.sltng.38.png "sltng")
+
+
+![Screenshot01](Bilder/Screenshot.sltng.41.png "sltng")
