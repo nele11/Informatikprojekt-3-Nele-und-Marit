@@ -13,6 +13,8 @@
 
 [02/03/18, 8. und 9. Stunde](#6)
 
+[23/03/18, 10. und 11. Stunde](#7)
+
 
 ## Erste Stunde<a name="1"></a>
 
@@ -99,3 +101,7 @@ Nun funktioniert die Epidemie und man kann einstellen, wie viele Bären es insge
 Nun programmierten wir die Immunität. Hierzu erstellten wir einen weiteren Slider, der die Genesungswahrscheinlichkeit einstellt. Wir ergänzten unseren "collision"-Block, indem wir den "if-test-then"-Block durch einen "if-test-then-else"-Block austauschten. unter "else" fügten wir dann einen weiteren "if-test-then"-Block hinzu. Dieser testet die Genesungswahrscheinlichkeit, und setzt für einen einstellbaren Prozentsatz der kollidierenden bereits kranken Bären die Eigenschaft "ist krank" auf falsch und die Eigenschaft "ist immun" auf wahr. Nun ist es möglich, dass kranke Bären, wenn sie miteinander kollidieren wieder gesund werden und dann immun sind. Diese immunen Bären sind dann grün.
 
 ![Screenshot01](Bilder/Screenshot.sltng.41.png "sltng")
+
+## Zehnte und elfte Stunde<a name="7"></a>
+
+
